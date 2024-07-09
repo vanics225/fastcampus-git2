@@ -1,0 +1,6 @@
+diff a/hello3 b/hello3	(rejected hunks)
+@@ -1 +1,4 @@
+ hello333
++
++
++update hello3 in branch team2
